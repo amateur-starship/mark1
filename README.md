@@ -3,4 +3,5 @@ The purpose of this repository is to serve as a collaboration place to collectiv
 The design is intended to proceed in two phases:
 1) conceptual design
 2) detailed design
+
 Anyone can contribute with ideas and suggestions. 
